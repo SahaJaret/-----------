@@ -1,0 +1,9 @@
+{
+  "ADMIN_PASSWORD": "change_me",
+  "KEY_BACKEND": "http://localhost:4000",
+  "MONGODB_URI": "mongodb+srv://sahajaret_db_user:Km1u4sMwo4P3Rh7e@cluster0.imymvgf.mongodb.net/?appName=Cluster0",
+  "DB_NAME": "serrr",
+  "WORKINK_LINK": "https://workink.net/yourlink",
+  "YT_CHANNEL": "https://www.youtube.com/@yourchannel",
+  "DISCORD_WEBHOOK_URL": ""
+}
